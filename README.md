@@ -2,7 +2,4 @@
 
 Open Final_Model.slx and make the folder containg all these files as matlab current directory <br>
 Original Mathworks & Simulink Template lik: https://www.mathworks.com/help/physmod/sps/ug/three-phase-synchronous-machine-control.html  <br>
-<p align="center">
-  <img src="Final Model/Images/model.PNG" width="550" height="400" title="Model">
-  
-</p>
+
